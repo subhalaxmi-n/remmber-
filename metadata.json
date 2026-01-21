@@ -1,0 +1,8 @@
+{
+  "name": "Remember - The Voice Word Chain Game",
+  "description": "An interactive, real-time voice-powered word chain game where you compete against an advanced AI. Say a word, and the AI responds starting with your word's last letter. Features high-speed 3-second rounds, AI-driven visuals, and multi-modal interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
